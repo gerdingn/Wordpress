@@ -1,6 +1,6 @@
 ---
 ID: 145
-post_title: Welcome
+post_title: Welcome To Sadida Clothing Company
 author: Gerdingn
 post_excerpt: ""
 layout: page
